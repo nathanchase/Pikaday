@@ -25,7 +25,7 @@
     "url": "https://github.com/dbushell/Pikaday.git"
   },
   "optionalDependencies": {
-    "moment-mini": "^2.18.1"
+    "moment-mini": "^2.22.1"
   },
   "devDependencies": {
     "mocha": "~1.18.2",
